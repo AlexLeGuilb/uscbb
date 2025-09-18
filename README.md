@@ -17,11 +17,11 @@ Un utilisateur avec un compte (le compte est créé par l'administrateur cf. la 
     - Les bénévolats qu'il doit faire (dans un match on a obligatoirement besoin de 3 bénévoles, 2 OTM et 1 responsable de salle)
 
 L'application est en lecture seule même si l'administrateur se connecte.
-![Screenshot de la page de planning des matchs](https://github.com/AlexLeGuilb/uscbb/tree/main/public/img/pour_git/match.PNG)
-![Screenshot de la page de planning des résultats](https://github.com/AlexLeGuilb/uscbb/tree/main/public/img/pour_git/result.PNG)
-![Screenshot de la page de planning des bénévolats](https://github.com/AlexLeGuilb/uscbb/tree/main/public/img/pour_git/denev.PNG)
-![Screenshot de la page de planning des évènements](https://github.com/AlexLeGuilb/uscbb/tree/main/public/img/pour_git/event.PNG)
-![Screenshot de la page des composition d'équipes](https://github.com/AlexLeGuilb/uscbb/tree/main/public/img/pour_git/compo.PNG)
+![Screenshot de la page de planning des matchs](./public/img/pour_git/match.PNG)
+![Screenshot de la page de planning des résultats](./public/img/pour_git/result.PNG)
+![Screenshot de la page de planning des bénévolats](./public/img/pour_git/denev.PNG)
+![Screenshot de la page de planning des évènements](./public/img/pour_git/event.PNG)
+![Screenshot de la page des composition d'équipes](./public/img/pour_git/compo.PNG)
 ## L'application administrateur
 La partie administrateur elle est orientée navigateur web, pour afficher plus de données, des tableaux et faciliter la manipulation des données de l'application.
 

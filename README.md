@@ -21,7 +21,7 @@ L'application est en lecture seule même si l'administrateur se connecte.
 
 ![Screenshot de la page de planning des matchs](./public/img/pour_git/match.PNG)
 ![Screenshot de la page de planning des résultats](./public/img/pour_git/result.PNG)
-![Screenshot de la page de planning des bénévolats](./public/img/pour_git/denev.PNG)
+![Screenshot de la page de planning des bénévolats](./public/img/pour_git/benev.PNG)
 ![Screenshot de la page de planning des évènements](./public/img/pour_git/event.PNG)
 ![Screenshot de la page des composition d'équipes](./public/img/pour_git/compo.PNG)
 

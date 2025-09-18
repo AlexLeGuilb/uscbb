@@ -1,0 +1,7 @@
+{
+    "Le champ :attribute doit contenir au moins une lettre.": "Le champ :attribute doit contenir au moins une lettre.",
+    "Le champ :attribute doit contenir au moins un chiffre.": "Le champ :attribute doit contenir au moins un chiffre.",
+    "Le champ :attribute doit contenir au moins un symbole.": "Le champ :attribute doit contenir au moins un symbole.",
+    "Le champ :attribute doit contenir au moins une lettre majuscule et une minuscule.": "Le champ :attribute doit contenir au moins une lettre majuscule et une minuscule.",
+    "Le champ :attribute donné est apparu dans une fuite de données. Choisissez un :attribute différent.": "Le champ :attribute donné est apparu dans une fuite de données. Choisissez un :attribute différent."
+}

@@ -1,0 +1,24 @@
+.tableHeader {
+    background-color: #000080 !important;
+    color: white;
+    font-weight: bold;
+}
+
+.tableRow>td {
+    font-size: 4vw;
+    }
+
+    .card-header {
+        background-color: #000080;
+        color: white;
+    }
+
+    table,
+    th,
+    td {
+        table-layout: fixed;
+        border: 1px solid black;
+        border-collapse: collapse;
+        word-wrap: break-word;
+        background-color: rgba(139, 212, 255, 0.74);
+}

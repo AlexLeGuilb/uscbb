@@ -1,0 +1,24 @@
+.headBand {
+    background-color: #000080;
+    color: white;
+    font-weight: bold;
+    font-size: 7vw;
+}
+
+.bottomMenu {
+    background-color: #000080;
+    font-weight: bold;
+    font-size: 7vw;
+}
+
+.bottomMenu > a {
+    justify-content: center;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.bottomMenu span.active {
+    color: #E59800;
+}
